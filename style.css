@@ -12,7 +12,7 @@
   font-family: "Blair Caps";
   /*   font-weight: bold; */
   /*   src: local ("Blair Caps"); */
-  src: url("https://cdn.glitch.global/bca2392a-f52a-45dd-b881-76081c0cad75/BlairCaps-GvJD.ttf?v=1715047529945")
+  src: url("fonts/BlairCaps-Regular.ttf")
     format("truetype");
 }
 
@@ -22,7 +22,7 @@
 body {
   margin: 100px 0 0 0;
   font-family: Wallpoet, serif;
-  background-image: url("https://cdn.glitch.global/645ed8e7-30b6-46c3-a2b8-09f197e51ed2/n%C3%A9bula.png?v=1694995249097");
+  background-image: url("assets/images/nébula.png");
   /*   background-color: red; */
   background-size: cover;
   background-attachment: fixed;
