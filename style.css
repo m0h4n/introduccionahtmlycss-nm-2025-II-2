@@ -21,7 +21,8 @@
 
 body {
   margin: 100px 0 0 0;
-  font-family: Wallpoet, serif;
+  font-family: Wallpoet, serif;  
+  /* font-family: Blair Caps, serif;   */
   background-image: url("assets/images/nébula.png");
   /*   background-color: red; */
   background-size: cover;
