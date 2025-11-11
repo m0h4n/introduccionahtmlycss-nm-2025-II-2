@@ -11,8 +11,8 @@
 @font-face {
   font-family: "Blair Caps";
   /*   font-weight: bold; */
-  /*   src: local ("Blair Caps"); */
-  src: url("fonts/BlairCaps-Regular.ttf")
+    /* src: local ("Blair Caps"); */
+  src: url("assets/fonts/BlairCaps-GvJD.ttf")
     format("truetype");
 }
 
@@ -21,8 +21,8 @@
 
 body {
   margin: 100px 0 0 0;
-  font-family: Wallpoet, serif;  
-  /* font-family: Blair Caps, serif;   */
+  /* font-family: Wallpoet, serif;   */
+  font-family: Blair Caps, serif;  
   background-image: url("assets/images/nébula.png");
   /*   background-color: red; */
   background-size: cover;
@@ -50,7 +50,7 @@ header {
   top: 0;
   z-index: 10;
   /*   font-family: Lora, serif; */
-  /*   font-family: 'Blair Caps', serif; */
+    font-family: 'Blair Caps', serif;
   /*   font-family: Wallpoet, serif; */
   /*   background: rgb(2,0,36);
 background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,116,121,1) 35%, rgba(236,0,255,1) 100%);
